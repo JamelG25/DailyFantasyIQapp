@@ -6,8 +6,7 @@
 
 .splash {
     /*makes it go full screen regardless of the browser or the width of the browser*/
-    /*background: url("../img/comingsoon.jpg") no-repeat center center fixed;*/
-    background-color: #28a54c;
+    background: url("../img/skyline.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
